@@ -13,6 +13,12 @@
 }
 
 @font-face {
+  font-family: "little-word";
+  src: url("little-word.woff2");
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Assistant";
   src: url("Assistant-Regular.woff2");
   font-display: swap;
