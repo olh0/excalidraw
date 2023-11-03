@@ -83,6 +83,15 @@ The app hosted at [excalidraw.com](https://excalidraw.com) is a minimal showcase
 
 We'll be adding these features as drop-in plugins for the npm package in the future.
 
+## 自定义
+### 添加字体参考
+[https://blog.csdn.net/qq_34802028/article/details/127927960]((https://blog.csdn.net/qq_34802028/article/details/127927960)
+
+[https://github.com/excalidraw/excalidraw/issues/5370](https://github.com/excalidraw/excalidraw/issues/5370)
+
+
+
+
 ## Quick start
 
 Install the [Excalidraw npm package](https://www.npmjs.com/package/@excalidraw/excalidraw):
