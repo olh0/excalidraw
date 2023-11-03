@@ -754,7 +754,7 @@ export const actionChangeFontFamily = register({
         testId: "font-family-code",
       },
       {
-        value: FONT_FAMILY.little-word,
+        value: FONT_FAMILY.Littleword,
         text: t("labels.handDrawn"),
         icon: FreedrawIcon,
         testId: "font-family-virgil",
